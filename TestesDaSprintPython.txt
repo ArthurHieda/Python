@@ -1,0 +1,32 @@
+Testes do Sprint de Python
+
+Parte do Cadastro:
+
+  1 - Testar se é possível inserir algum caractere diferente de número na parte do celular
+  2 - Testar se é possível colocar algum caractere diferente de letras em nome completo
+  3 - Testar se é possível cadastrar um email fora das definições de um email comum (pontos, símbolos, etc...)
+  4 - Testar se há alguma possibilidade do usuário logar sem ter se cadastrado, ou seja, logar sem ter um login descrito num txt
+  5 - Analisar se foi inserido num outro arquivo o cadastro feito pelo usuário
+  6 - Testar se é possível ter 2 cadastros iguais
+
+Parte do Menu:
+  
+  1 - Testar se é possível colocar algo diferente dos números das opções
+
+Parte do Login:
+  Obs: Para logar é preciso apenas o celular portanto não é possível cadastra 2 usuários no mesmo celular mas é possível
+  cadastrar no mesmo email e no mesmo nome
+  1 - Analisar se é possível logar num cadastro inexistente
+
+Parte de Editar Usuário:
+
+  1 - Testar se é possível colocar algum caractere diferente de letras em nome completo
+  2 - Testar se é possível editar um email fora das definições de um email comum (pontos, símbolos, etc...)
+
+Parte do questonário:
+ 
+  1 - Testar se há possibilidade de responder as questões fora do que foi pedido como resposta (símbolos, números decimais, etc...)
+
+Parte de Exibir Resultado do Questionário:
+  
+  1 - Testar se é possível exibir o resultado do questionário antes de faze-lo
